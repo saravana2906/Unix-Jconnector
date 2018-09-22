@@ -2,8 +2,8 @@
 Swing based Application to connect unix systems
 This system takes input file which contains username and password for server as input.
 This application helps user to connect to multiple unix systems simultaneously.Initially designed to help the support people to check the logs of the servers.<br>
-Note: Jsch jar is needed as dependency for working.<br>
-http://www.jcraft.com/jsch/
+Note: Jsch jar is needed as dependency for working. http://www.jcraft.com/jsch/ <br>
+ 
 The entire System consists of two modules<br>
 1.	User interface<br>
 2.	Bridge<br>
