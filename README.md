@@ -12,4 +12,4 @@ Mechanism:<br>
 •	JobConsole get input from the User Interface and sends it to the respective unix server for execution using Bridge objects.<br>
 •	Once Bridge executes the command in the respective server and sends the result back to User Interface for displaying the result in the front end.
 
-This can be further improved to work with ssh keys to connect to multiple systems.
+This can be further improved to work with ssh keys instead of passwords.
